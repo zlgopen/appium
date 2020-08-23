@@ -43,6 +43,7 @@
   "dependencies": {
     "@babel/runtime": "^7.6.0",
     "appium-android-driver": "^4.20.0",
+    "appium-awtk-driver": "git+https://github.com/zlgopen/appium-awtk-driver.git",
     "appium-base-driver": "^6.0.1",
     "appium-espresso-driver": "^1.0.0",
     "appium-fake-driver": "^1.x",
